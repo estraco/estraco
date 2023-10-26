@@ -1,7 +1,5 @@
 # Hi!! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/estraco?label=Follow&style=social)](https://github.com/estraco)
-
 I'm a software developer with a passion for languages, robotics, and open source. I'm fluent in over 15 languages, with a strong focus on C++, TypeScript, and Java.
 
 ## About Me
