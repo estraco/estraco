@@ -30,7 +30,7 @@ Here are some of my notable projects:
 2. [rokng](https://github.com/estraco/rokng) - Ngrok client written in TypeScript
 3. [Desmos Image Uploader](https://github.com/estraco/desmos-image-uploader) - Upload images directly to Desmos's graphing calculator
 
-I'm currently working on getting internet on a TI-84 Plus CE without any external appearance chhanges.
+I'm currently working on getting internet on a TI-84 Plus CE without any external appearance changes.
 
 Feel free to explore my [GitHub repositories](https://github.com/estraco/repositories) for more.
 
