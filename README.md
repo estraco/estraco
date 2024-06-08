@@ -8,7 +8,7 @@ I'm a software developer with a passion for languages, robotics, and open source
 - 🤖 Member of [Spectrum3847 FRC Team](https://spectrum3847.org/)
 - 💻 Open source enthusiast
 - 🎓 Senior in High School
-- 🏳‍🌈 Bisexual
+- 🏳‍🌈
 
 ## Skills
 
