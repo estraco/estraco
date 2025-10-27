@@ -35,7 +35,6 @@ Feel free to explore my [GitHub repositories](https://github.com/estraco/reposit
 ## Get in Touch
 
 - [My Discord account](https://discord.com/users/787143988514914324)
-- [Email](mailto:s@blahaj.pro)
 
 ## Stats
 
